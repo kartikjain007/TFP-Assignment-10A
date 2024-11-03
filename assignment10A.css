@@ -1,0 +1,30 @@
+.parent {
+  position: relative;
+}
+
+.c2 {
+  position: absolute;
+  left: 60px;
+}
+
+.c3 {
+  position: relative;
+  left: 80px;
+}
+
+.c6 {
+  position: relative;
+  bottom: 30px;
+  left: 30px;
+}
+
+.c7 {
+  position: absolute;
+  z-index: 1;
+}
+
+.c8 {
+  position: relative;
+  top: 30px;
+  left: 30px;
+}
